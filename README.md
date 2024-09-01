@@ -12,7 +12,7 @@ In this project, you will take the first steps towards addressing this problem b
 
 
 
-![landmarks thumbnails.png](images/image10.png)
+![landmarks thumbnails.png](image10.png)
 Examples from the landmarks dataset: a road in Death Valley, the Brooklyn Bridge, and the Eiffel Tower
 
 # You can head to Jupyter Notebooks that include all coding and written explanations. 
